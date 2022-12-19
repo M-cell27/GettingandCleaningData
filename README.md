@@ -1,4 +1,4 @@
-# GettingandCleaningData
+# Getting and CleaningData
 Coursera project: Getting & Cleaning Data.
 
 # Peer-Graded-Assignment-GettingandCleaningData
